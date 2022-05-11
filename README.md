@@ -7,7 +7,7 @@ Like any view, ColorPickerView can be created either programmatically or using X
 ## Instalation
 You can install the package through Gradle by adding:
 ```
-implementation 'com.github.BekaErg:ColorPickerTriangle:-SNAPSHOT'
+implementation 'com.github.BekaErg:ColorPickerTriangle:v1.0.0'
 ```
 
 ## ScreenShot
