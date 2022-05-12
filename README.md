@@ -4,6 +4,9 @@ The main class ColorPickerView extents the class android.view.View.
 ## Usage
 Like any view, ColorPickerView can be created either programmatically or using XML.
 
+To retreive the selected color you can set a listener using setOnColorChange() by passing a lambda function with two arguments, previous color and curreent color.
+You may also set and get color by directly accessing color member of the class.
+
 ## Instalation
 You can install the package through Gradle by adding:
 ```
