@@ -1,4 +1,4 @@
-package com.jarti.colorpickerlibrary
+package jrt.bekaerg.colorpickertriangle
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.jarti.colorpickerlibrary
+package jrt.bekaerg.colorpickerlibrary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
